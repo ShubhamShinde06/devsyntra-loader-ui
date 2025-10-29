@@ -1,7 +1,21 @@
 {
   "name": "devsyntra-loader-ui",
   "version": "1.0.3",
-  "description": "",
+  "description": "A customizable React loader/spinner component for web apps.",
+  "keywords": [
+    "react",
+    "loader",
+    "spinner",
+    "react-loader",
+    "loading",
+    "ui",
+    "component",
+    "animation",
+    "nextjs",
+    "frontend",
+    "devsyntra",
+    "devsyntra-loader-ui"
+  ],
   "main": "dist/main.js",
   "files": [
     "dist"
